@@ -11,3 +11,4 @@ Pipeline attendu :
 `Vault Obsidian -> GitHub -> Edge Function ingest-github-vault -> tables SQL -> applications`
 
 L'app iOS, le site public et le back-office ne lisent jamais le vault directement.
+# canopy_mediation_vault
