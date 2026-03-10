@@ -1,0 +1,33 @@
+{
+  "mediation_node": {
+    "id": "med-node-thym-central-001",
+    "site": "devey",
+    "kind": "node",
+    "title": "Le thym, petit mais central",
+    "slug": "thym-petit-mais-central",
+    "status": "draft",
+    "language": "fr",
+    "version": 1
+  },
+  "mediation_contents": {
+    "phrase_essence": "Une plante minuscule peut tenir ensemble cuisine, soin, pollinisation, parfum et couverture du sol.",
+    "card_text": "Le thym paraît modeste...",
+    "body_md": "## Carte\\n...\\n## Court\\n...\\n## Moyen\\n...\\n## Long\\n..."
+  },
+  "attachments": [
+    {
+      "ref": "species:thymus-vulgaris",
+      "role": "primary"
+    },
+    {
+      "ref": "theme:jardin-foret",
+      "role": "contextual"
+    }
+  ],
+  "edges": [
+    {
+      "to": "med-node-jardin-foret-strates-001",
+      "role": "example_of"
+    }
+  ]
+}

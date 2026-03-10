@@ -1,0 +1,37 @@
+{
+  "required_frontmatter": [
+    "id",
+    "node_kind",
+    "site",
+    "title",
+    "status",
+    "language",
+    "version",
+    "phrase_essence",
+    "card_text",
+    "attachments"
+  ],
+  "recommended_sections": [
+    "Carte",
+    "Court",
+    "Moyen",
+    "Long",
+    "Notes internes"
+  ],
+  "attachment_roles": [
+    "primary",
+    "contextual",
+    "example",
+    "located_in",
+    "scan_entry",
+    "belongs_to"
+  ],
+  "edge_roles": [
+    "extends",
+    "continues",
+    "example_of",
+    "belongs_to_path",
+    "belongs_to_sequence",
+    "contrasts"
+  ]
+}

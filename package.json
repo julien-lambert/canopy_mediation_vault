@@ -1,0 +1,11 @@
+{
+  "name": "canopy-mediation-vault",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:content": "node tools/build_content_for_ingest.mjs"
+  },
+  "dependencies": {
+    "yaml": "^2.8.1"
+  }
+}
