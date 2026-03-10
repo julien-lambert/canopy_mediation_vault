@@ -12,3 +12,4 @@ Pipeline attendu :
 
 L'app iOS, le site public et le back-office ne lisent jamais le vault directement.
 # canopy_mediation_vault
+# canopy_mediation_vault
